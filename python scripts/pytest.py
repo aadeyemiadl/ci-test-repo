@@ -18,7 +18,7 @@ if (YEAR % 400 == 0) and (YEAR % 100 == 0):
 # year divided by 4 is a leap year
 elif (YEAR % 4 ==0) and (YEAR % 100 != 0):
         print("{0} is a leap year".format(YEAR))
-
+#
 # if not divided by both 400 (century year) and 4 (not century year)
 # year is not leap year
  else:
