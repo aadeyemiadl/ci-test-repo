@@ -13,6 +13,9 @@ YEAR = 2000
 # century year divided by 400 is leap year
 if (YEAR % 400 == 0) and (YEAR % 100 == 0):
         print("{0} is a leap year".format(YEAR))
+i ajd ekl
+dfa
+str(lkfs) = 2 
 
 # not divided by 100 means not a century year
 # year divided by 4 is a leap year
