@@ -1,7 +1,6 @@
 name: Run ESLint on Push Requests
 
-on:
-  - [push]
+on: [push]
 
 jobs:
   build:
